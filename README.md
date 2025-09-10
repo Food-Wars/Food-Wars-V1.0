@@ -7,7 +7,7 @@ Note: Currently only a Windows build is available
 ### Run from Source
 1) Clone the project to your device
 2) Install 3rd party libraries
-3) Run ```Food_Wars_V_1.0/py```'
+3) Run ```Food_Wars_V_1.0/py```
 
 ## How to Play
 * Use WASD to move
