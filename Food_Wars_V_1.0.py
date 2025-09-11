@@ -2,7 +2,6 @@
 """
 Created on Thu Aug  1 08:12:39 2024
 
-@author: zrobi
 """
 
 #import modules

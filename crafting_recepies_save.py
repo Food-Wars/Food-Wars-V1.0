@@ -2,7 +2,6 @@
 """
 Created on Wed Aug 21 13:31:29 2024
 
-@author: zrobi
 """
 import json
 
