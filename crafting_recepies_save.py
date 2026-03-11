@@ -29,7 +29,7 @@ crafting_recepies = {
                     "suger_cloth_helmet_recepie": [[12,12,12,12,0,12,0,0,0], [16, 1]],
                     }
 
-with open('C:/Users/zrobi/Documents/Python Scripts/Food Wars/V_1.0/game_files/crafting/crafting_recepies.json', "w") as file:
+with open('game_files/crafting/crafting_recepies.json', "w") as file:
     json.dump(crafting_recepies, file)
     
 print('Saved!')
